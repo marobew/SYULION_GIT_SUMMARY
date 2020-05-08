@@ -8,7 +8,13 @@ Git CLI(Command Line Interface)를 사용하여 깃 명령어를 배워봅시다
 ### Git, GitHub 이란?
 
 - Git & GitHub [[summary]](./git_github.md)
-- Git Basic
+
+
+### Git 사전지식
+
+- CLI & GUI
+- commit
+- index & working tree
 
 ### 환경설정하기
 
@@ -30,6 +36,9 @@ Git CLI(Command Line Interface)를 사용하여 깃 명령어를 배워봅시다
 - `git add`
 - `git commit -m " "`
 - `git push`
+
+### Git으로 협업하기 
+
 - `git pull`(변경사항 갱신)
 - `git clone`(저장소 복제)
 - `git fork`(저장소 요청)
@@ -52,13 +61,11 @@ Git CLI(Command Line Interface)를 사용하여 깃 명령어를 배워봅시다
 - .gitignore
 - Git Pages
 - LICENSE
-
-### Git으로 협업하기 
-
 - Git Collaborators
 - Git Organizations
 - Git Teams
 
 #### 참고자료
+
 > https://git-scm.com/docs
 
