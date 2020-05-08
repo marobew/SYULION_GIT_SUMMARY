@@ -4,8 +4,6 @@
 
 Git CLI(Command Line Interface)를 사용하여 깃 명령어를 배워봅시다
 
-<br />
-
 ### Git, GitHub 이란?
 
 - Git & GitHub
