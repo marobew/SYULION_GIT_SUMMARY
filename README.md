@@ -2,7 +2,8 @@
 
 ## 아기사자를 위한 깃 강의 요약 저장소입니다
 
-Git CLI(Command Line Interface)를 사용하여 깃 명령어를 배워봅시다
+Git CLI(Command Line Interface)를 사용하여 깃 명령어를 배워봅시다<br />
+- 세션자료 [[likelion drive]](https://docs.google.com/presentation/d/1y-7ODwRvMFD283jFvO7JGjg4KCFNRwJ6oM6sJzgA9qs/edit?usp=sharing)
 <hr />
 
 ### Git, GitHub 이란?
