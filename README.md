@@ -37,6 +37,7 @@ Git CLI(Command Line Interface)를 사용하여 깃 명령어를 배워봅시다
 - `git init`
 - `git add`
 - `git commit -m " "`
+- `git status`
 - `git push`
 
 ### Git으로 협업하기 
