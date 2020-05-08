@@ -1,10 +1,11 @@
 # LIKELION 8TH GIT SESSION SUMMARY(작성중)
 ## 아기사자를 위한 깃 강의 요약 저장소입니다
 Git CLI(Command Line Interface)를 사용하여 깃 명령어를 배워봅시다
-<hr />
+
+<br />
 ### Git GitHub은 무엇인가요?
-- Git & GitHub [[summary]](./git&github.md)
-- Git Basic [[summary]](./gitBasic.md)
+- Git & GitHub [[summary]]
+- Git Basic [[summary]]
 ### 환경설정하기
 - 초기 설정
 ### Repository(저장소)
