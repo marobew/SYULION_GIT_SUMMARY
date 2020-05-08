@@ -12,6 +12,7 @@ Git CLI(Command Line Interface)를 사용하여 깃 명령어를 배워봅시다
 
 ### 환경설정하기
 
+- 사전 준비 [[summary]](./setting.md)
 - 초기 설정
 
 ### Repository(저장소)
