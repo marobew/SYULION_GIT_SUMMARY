@@ -14,7 +14,7 @@ Git CLI(Command Line Interface)를 사용하여 깃 명령어를 배워봅시다
 
 ### Git 사전지식
 
-- CLI & GUI
+- CLI & GUI [[summary]](./cli_gui.md)
 - commit
 - index & working tree
 
